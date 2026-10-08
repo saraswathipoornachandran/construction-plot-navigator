@@ -54,7 +54,27 @@ Additional frontend, backend, and database technologies will be documented after
 
 ## Application Screenshots
 
-Screenshots of the navigation interface, plot selection, and map navigation will be added here.
+
+## Application Screenshots
+
+The following screenshots demonstrate the Construction Plot
+Navigator web application and its navigation interface.
+
+### Application Interface
+
+![Construction Plot Navigator Interface](screenshots/1.jpg)
+
+### Navigation Interface
+
+![Construction Plot Navigation](screenshots/2.png)
+
+---
+
+## Live Application
+
+🌐 **Try the application:**
+https://navi.apptoryx.com/
+
 
 ## Skills Demonstrated
 
