@@ -54,9 +54,6 @@ Additional frontend, backend, and database technologies will be documented after
 
 ## Application Screenshots
 
-
-## Application Screenshots
-
 The following screenshots demonstrate the Construction Plot
 Navigator web application and its navigation interface.
 
